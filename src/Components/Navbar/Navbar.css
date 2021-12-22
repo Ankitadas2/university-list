@@ -1,0 +1,27 @@
+.nav-elements{
+    font-weight: 600;
+    border-bottom: 2px solid transparent;
+    border:1px solid darkcyan;
+    background-color: darkcyan;
+}
+
+.nav-elements:hover{
+    
+    font-weight: 700;
+    border: 2px solid bisque;
+    background-color: skyblue;
+   
+
+}
+.name{
+    font-weight:bold;
+    font-size: 25px;
+    
+}
+
+.name:hover{
+    font-family: "Dancing Script";
+    transform: scale(1.25);
+    color: darkkhaki;
+    transition: 0.5s;
+}
